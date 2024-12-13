@@ -18,7 +18,7 @@ function Cat(){
             <Image src="/images2/white-g.png" alt="shirt" width={295}  height={298} className="ml-[-100px] mt-[65px]"/> 
             <Image src="/images2/pink.png" alt="shirt" width={295}  height={298} className="ml-[20px] mt-[65px]"/> 
             <Image src="/images2/white.png" alt="shirt" width={295}  height={298} className="ml-[20px] mt-[65px]"/> 
-            <Image src="/images2/GRADIENT GRAPHIC T-shirt.png" alt="text" width={227}  height={27} className="ml-[-920px] mt-[380px]"/>
+            <Image src="/images2/Gradient Graphic T-shirt.png" alt="text" width={227}  height={27} className="ml-[-920px] mt-[380px]"/>
             <Image src="/images2/Polo with Tipping Details.png" alt="text" width={231}  height={27} className="ml-[90px] mt-[380px]"/>  
             <Image src="/images2/Black Striped T-shirt.png" alt="text" width={227}  height={27} className="ml-[80px] mt-[380px]"/> 
             <Image src="/images2/star.png" alt="stars" width={126}  height={19} className="ml-[-860px] mt-[410px]"/> 
