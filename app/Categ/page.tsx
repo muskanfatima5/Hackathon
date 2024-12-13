@@ -46,7 +46,7 @@ function Cat(){
             <Image src="/images/COURAGE GRAPHIC T-SHIRT.png" alt="text" width={226}  height={27} className="ml-[125px] mt-[1270px]"/> 
             <Image src="/images/LOOSE FIT BERMUDA SHORTS.png" alt="text" width={239}  height={27} className="ml-[90px] mt-[1270px]"/> 
             <Image src="/images2/star1.png" alt="stars" width={160}  height={19} className="ml-[-875px] mt-[1300px]"/> 
-            <Image src="/images2/stars.png" alt="stars" width={137}  height={19} className="ml-[00] mt-[1300px]"/> 
+            <Image src="/images2/Frame 68.png" alt="stars" width={137}  height={19} className="ml-[00] mt-[1300px]"/> 
             <Image src="/images2/star3.png" alt="stars" width={113}  height={19} className="ml-[335px] mt-[1300px]"/>
             <Image src="/images2/rate5.png" alt="price" width={53}  height={32} className="ml-[-740px] mt-[1330px]"/>
             <Image src="/images2/x-rate.png" alt="price" width={56}  height={32} className="ml-[10px] mt-[1330px]"/>
