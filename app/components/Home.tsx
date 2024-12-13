@@ -78,7 +78,7 @@ function Home() {
           <button>View All</button>
         </div>
         <div className="line">
-            <img src="/images/line1.png" alt="line"/>
+            <img src="/images/Line1.png" alt="line"/>
         </div>
         <div className="new">
           <img src="/images/top selling.png" alt="selling"/>
