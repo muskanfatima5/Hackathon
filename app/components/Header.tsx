@@ -25,6 +25,7 @@ function Header(){
       <div className="head-two">
         <div className="heading">
           <h1 className="shop">SHOP.CO</h1>
+          <Link href="./Detail">
           <p  className="one">Shop
           <img
             src="/images/dropdown.png"
@@ -32,6 +33,7 @@ function Header(){
             width={16}
             height={16}
           /></p>
+          </Link>
           <p className="two">On Sale</p>
           <p className="three">New Arrivals</p>
           <p >Brands</p>
